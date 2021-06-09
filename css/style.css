@@ -509,7 +509,7 @@ margin-top: 16px;
     width: 100%;
     min-width: 320px;
     height: 50vh;
-    background-image: url('assets/img/bitcoinbaby1.jpg');
+    background-image: url('../assets/img/bitcoinbaby1.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
