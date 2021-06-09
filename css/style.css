@@ -108,7 +108,7 @@ display: inline-block;
 width: 12px;
 height: 7.41px;
 margin-left: 14px;
-background-image: url(assets/icon/Vector.svg);
+background-image: url("assets/icon/Vector.svg");
 
 
 }
